@@ -1,0 +1,4 @@
+Cluster,Record_Count,Percentage,Weighted_Average_Expenditure,Weighted_Average_Trip_Duration,Weighted_Average_Household_Size,Weighted_Average_Age,Dominant_trip_type_label,Dominant_travel_mode_label,Dominant_accommodation_type_label,Dominant_leading_purpose_label,Dominant_trip_month_label,Dominant_main_destination_label,Dominant_sector_label
+0,26571,19.225926890683336,14976.202743308939,3.7569690117056926,3.819259755842617,27.634570605644228,Non-package,Train,Hotel,Pilgrimage and religious activities,May,Outside district but within state,Urban
+1,54851,39.68843159387572,23074.920356628714,6.328742410416318,1.6906752451731173,34.73948662138213,Non-package,Hired motorised transport,Other commercial accommodation,Health and medical,August,Within the district,Rural
+2,56782,41.08564151544094,9463.987787434127,3.430405769048839,1.3856930027767367,45.43981712787753,Non-package,Train,Hotel,Pilgrimage and religious activities,February,Outside state but within India,Rural

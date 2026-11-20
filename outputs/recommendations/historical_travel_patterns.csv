@@ -1,0 +1,6 @@
+travel_mode_label,accommodation_type_label,historical_trips,weighted_support,median_expenditure,average_duration,average_similarity,common_destination
+Train,Hotel,1076,758945.6633481572,8485.0,2.3406133828996283,0.8786754555875816,Outside district but within state
+Train,Other commercial accommodation,10,16793.477111901575,5340.0,2.5,0.7833856851378062,Outside district but within state
+Train,Friends and relatives,28,36654.29065377234,5644.0,3.142857142857143,0.7829947883785342,Outside district but within state
+Train,Dharamshala,104,62667.183728042764,7480.0,2.6346153846153846,0.7820295070242055,Outside district but within state
+Train,Guest house,14,8277.826107573681,6195.5,2.0714285714285716,0.7819501890590798,Outside district but within state

@@ -1,0 +1,13 @@
+Feature,Importance
+sector_label,0.8741374574693264
+trip_type_label,1.1780302504526887
+trip_month_label,1.5345478191828876
+average_member_age,2.013403648353593
+state,2.8285812273166533
+destination_state_label,3.554702329153377
+household_members,4.339780399220399
+main_destination_label,5.007086970614365
+travel_mode_label,11.751848328972589
+accommodation_type_label,15.772845635458928
+leading_purpose_label,18.658928227841027
+trip_duration_nights,32.48610770596407
